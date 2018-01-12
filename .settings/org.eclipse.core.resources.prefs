@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/org/logink/ws/client/AuthenService/AuthenticationResult.java=UTF-8
+encoding//src/org/logink/ws/client/AuthenService/IAuthenService.java=UTF-8
+encoding//src/org/logink/ws/client/AuthenService/IAuthenServiceService.java=UTF-8
+encoding//src/org/logink/ws/client/AuthenService/IAuthenServiceServiceLocator.java=UTF-8
+encoding//src/org/logink/ws/client/AuthenService/IAuthenServiceServiceSoapBindingStub.java=UTF-8
+encoding//src/org/logink/ws/client/AuthenService/ServiceException.java=UTF-8
+encoding//src/restful/JsonUtil.java=UTF-8
+encoding/<project>=UTF-8
